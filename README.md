@@ -8,13 +8,13 @@
 
 :brazil:<br>
 Registro do meu desenvolvimento técnico/profissional (linguagens, códigos, bibliografia etc)<br>
->“Uma estrada para todas governar”
+>“Um roteiro para todos governar”
 
 Este projeto é o índice (compilação) de todos os meus projetos “Road”. Por uma questão de organização, as referências bibliográficas, códigos, videoaulas etc. serão listadas nos respectivos projetos.
 
 :us:<br>
 Record of my technical/professional development (languages, codes, bibliographies, etc.)
->"One Road to rule them all"
+>"One Roadmap to rule them all"
 
 This project is the index (compilation) of all my “Road” projects. For organizational reasons, bibliographic references, codes, video lessons, etc. will be listed in the respective projects.
 
